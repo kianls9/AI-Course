@@ -1,5 +1,6 @@
 # Q&A Project - Group 20
-
+![image alt](https://github.com/afkarireihaneh/AI-Course/blob/main/Student-Projects/group20/main_page.png?raw=true)
+![image alt](https://github.com/afkarireihaneh/AI-Course/blob/main/Student-Projects/group20/eval.png?raw=true)
 ## Team Members
 - Raheleh Afkari (40110130117488)
 - Student 2 (ID)

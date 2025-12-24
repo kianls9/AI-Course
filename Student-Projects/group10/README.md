@@ -1,5 +1,5 @@
 # Group 10
-YouTube Comments Sentiment Analyzer #
+## YouTube Comments Sentiment Analyzer
 # Group members:
 1. Sogol Shariatzadeh Shirazi (leader)
 2. Rahil Tondghadaman
